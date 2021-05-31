@@ -1,10 +1,7 @@
 # Natural-Language-Processing-with-Disaster-Tweets
 
-Task:
-Predict which Tweets are about real disasters and which ones are not.
+-Performed EDA on twitter data and text classification of tweets into Disaster and Non-Disaster tweets.
 
-This project was done as part of Data Analytics with R program course requirement.
+-Detecting patterns in the tweet and classify using various machine learning models to achieve F1 score of 80.3%.
 
-Secured Rank #2 in class.
-
-Kaggle score: 0.79619
+-Performed Sentiment analysis on twitter data using Multinomial Naïve Bayes using Count vectorizer.
