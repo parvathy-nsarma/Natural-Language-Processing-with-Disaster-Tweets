@@ -18,3 +18,9 @@ For creating different models [LogisticRegression, SVC, MultinomialNB, DecisionT
 # Training Performance
 
 ![image](https://user-images.githubusercontent.com/71151379/120144361-c2688780-c1af-11eb-9bd6-1d01436039b8.png)
+
+# Final testing performance and ranking in Public Leaderboard
+
+Final testing performance - 0.79619
+Ranking in Public Leaderboard - 1232
+
